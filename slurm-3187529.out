@@ -1,0 +1,14 @@
+=== Reference (DOP853, rtol=1e-12) ===
+  nfev=815, t=0.01s
+=== Fixed-step RK4 ===
+  h=0.0400: err=3.40e-04, n_steps=125, t=0.004s
+  h=0.0200: err=6.48e-05, n_steps=248, t=0.007s
+  h=0.0100: err=2.07e-05, n_steps=494, t=0.015s
+  h=0.0050: err=6.12e-06, n_steps=986, t=0.029s
+  h=0.0025: err=9.61e-07, n_steps=1971, t=0.059s
+=== Adaptive (DOP853) ===
+  rtol=1e-06: err=7.86e-06, nfev=185, t=0.003s
+  rtol=1e-08: err=3.18e-08, nfev=314, t=0.004s
+  rtol=1e-10: err=3.95e-10, nfev=521, t=0.007s
+  rtol=1e-12: err=0.00e+00, nfev=815, t=0.011s
+Done.

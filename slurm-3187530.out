@@ -1,0 +1,14 @@
+=== Best fit (max H error) ===
+  w0=-0.9136 wa=-0.1639 Om0=0.6995 H0=1.0002 E=2.50e-04
+=== Degeneracy heatmap ===
+  row 0/51
+  row 10/51
+  row 20/51
+  row 30/51
+  row 40/51
+  row 50/51
+=== Metric sensitivity ===
+  max_H: w0=-0.9136 wa=-0.1639 E_max=2.50e-04 E_rms=1.73e-04 E_DM=2.31e-04
+  rms_H: w0=-0.9164 wa=-0.1544 E_max=5.98e-04 E_rms=1.48e-04 E_DM=5.73e-04
+  max_DM: w0=-0.9107 wa=-0.1898 E_max=1.07e-03 E_rms=3.64e-04 E_DM=7.11e-05
+Done.
