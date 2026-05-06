@@ -10,4 +10,4 @@
 
 module purge
 module load anaconda3/2025.6
-python solver.py
+python ../solver.py
