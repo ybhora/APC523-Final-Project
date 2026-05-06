@@ -10,4 +10,4 @@
 
 module purge
 module load anaconda3/2025.6
-python diagnostics.py
+python ../diagnostics.py
